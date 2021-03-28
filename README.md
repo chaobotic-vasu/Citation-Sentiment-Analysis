@@ -6,7 +6,3 @@ This is a study of the importance of sentiment analysis for qualitative evaluati
 Conference Details:
 Proceedings of SIET (Page 58-62), ISSN: 2541-1861
 17th-18th October 2016, 1st conference of Sustainable Information Engineering and Technology (SIET), Brawijaya University, Indonesia
-
-[Tracking the need PPT (git).pdf](https://github.com/chaobotic-vasu/Citation-Sentiment-Analysis/files/6217730/Tracking.the.need.PPT.git.pdf)
-
-[Tracking the need Paper (git).pdf](https://github.com/chaobotic-vasu/Citation-Sentiment-Analysis/files/6217729/Tracking.the.need.Paper.git.pdf)
