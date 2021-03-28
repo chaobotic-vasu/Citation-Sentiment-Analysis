@@ -1,4 +1,4 @@
 # Citation-Sentiment-Analysis
-A study of the importance of sentiment analysis for qualitative evaluation of Citations.
+_"Sentiments behind citations: Tracking the need, current work and future directions of Citation Sentiment Analysis."
 
-I took this as a independent and then, a minor research project in my B.Tech. With my colleague, published this survey paper in a conference in 2017 in Indonesia. Here's a copy. Hope it interests you. Have fun reading! There's also a ppt attached for convenience. 
+This is a study of the importance of sentiment analysis for qualitative evaluation of Citations. With my colleague, published this survey paper in the SIET conference, 2017 in Indonesia. We took this as a independent and then, a minor research project in my B.Tech. Here's a copy. Hope it interests you. Have fun reading! There's also a ppt attached for convenience. 
